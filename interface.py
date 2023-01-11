@@ -6,7 +6,7 @@
 #5. Let the user close the program
 
 teamlist = []
-choice = ''
+choice = ' '
 while choice != 'X':
     print("TEAM MANANGER")
     print("=============")
